@@ -55,6 +55,7 @@
     },
     {
       "matchPackageNames": [
+	"scop/pre-commit-perlcritic",
         "scop/pre-commit-shfmt",
         "shellcheck-py/shellcheck-py"
       ],
